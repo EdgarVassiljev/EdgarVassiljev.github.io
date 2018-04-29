@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RESUME on EDGAR VASSILJEV | GAME ARTIST</title>
-    <link>http://example.com/resume/</link>
+    <link>http://edgvv.com/resume/</link>
     <description>Recent content in RESUME on EDGAR VASSILJEV | GAME ARTIST</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2018 Edgar Vassiljev</copyright>
     <lastBuildDate>Sun, 02 Jul 2017 08:15:25 +0700</lastBuildDate>
     
-	<atom:link href="http://example.com/resume/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://edgvv.com/resume/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
